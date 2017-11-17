@@ -1,5 +1,9 @@
 # restapi
 Rest API for payments resource
+1. Spring Boot REST API
+2. TDD with Spring Test
+3. Integration test with Docker
+
 
 # Requirements
 Java - 1.8  
