@@ -58,7 +58,7 @@ public class PaymentsIntegrationTest {
 	@Before
 	public void initialize() {
 		// this.containerEndPoint = System.getProperty("paymentsUrl").toString();
-		this.containerEndPoint = "http://192.168.99.100:8084/";
+		this.containerEndPoint = "http://127.0.0.1:8084/";
 	}
 
 	/**
