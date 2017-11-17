@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  payments:
+    build: ../../../../../
+    image: com.company/payments:latest
+    ports:
+      - "8084:8083"
