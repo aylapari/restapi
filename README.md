@@ -1,6 +1,6 @@
 # restapi
 Rest API for payments resource
-1. Spring Boot REST API
+1. Spring Boot REST API with embedded H2 database
 2. TDD with Spring Test
 3. Integration test with Docker
 
